@@ -46,3 +46,7 @@ CMakeCache.txt
 CMakeFiles/
 Release/
 Debug/
+
+x64/
+
+tacopie\.dir/
